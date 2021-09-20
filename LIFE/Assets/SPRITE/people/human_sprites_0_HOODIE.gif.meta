@@ -1,0 +1,1524 @@
+fileFormatVersion: 2
+guid: a7a31c3a0fa361e4a9e351afac85d74d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6001643506424085566
+    second: human_sprites_0_HOODIE_0
+  - first:
+      213: -2837520229737699995
+    second: human_sprites_0_HOODIE_1
+  - first:
+      213: -5795358621398068206
+    second: human_sprites_0_HOODIE_2
+  - first:
+      213: 8780135495357676424
+    second: human_sprites_0_HOODIE_3
+  - first:
+      213: 5018494783341593102
+    second: human_sprites_0_HOODIE_4
+  - first:
+      213: 3558510527972465230
+    second: human_sprites_0_HOODIE_5
+  - first:
+      213: 45969201806772158
+    second: human_sprites_0_HOODIE_6
+  - first:
+      213: 1860127288224349200
+    second: human_sprites_0_HOODIE_7
+  - first:
+      213: -7402683446546593013
+    second: human_sprites_0_HOODIE_8
+  - first:
+      213: -284025275913292767
+    second: human_sprites_0_HOODIE_9
+  - first:
+      213: 2326989044229085446
+    second: human_sprites_0_HOODIE_10
+  - first:
+      213: 526739557082844266
+    second: human_sprites_0_HOODIE_11
+  - first:
+      213: -7087048448605576829
+    second: human_sprites_0_HOODIE_12
+  - first:
+      213: -5978797907712780631
+    second: human_sprites_0_HOODIE_13
+  - first:
+      213: 4623818329768198680
+    second: human_sprites_0_HOODIE_14
+  - first:
+      213: 5932924328233962505
+    second: human_sprites_0_HOODIE_15
+  - first:
+      213: -8315670942404290730
+    second: human_sprites_0_HOODIE_16
+  - first:
+      213: 3821233667583775713
+    second: human_sprites_0_HOODIE_17
+  - first:
+      213: 5745400034914056765
+    second: human_sprites_0_HOODIE_18
+  - first:
+      213: 5366512858799640475
+    second: human_sprites_0_HOODIE_19
+  - first:
+      213: -3119785001184775319
+    second: human_sprites_0_HOODIE_20
+  - first:
+      213: 778922666620028579
+    second: human_sprites_0_HOODIE_21
+  - first:
+      213: 7891974373144748805
+    second: human_sprites_0_HOODIE_22
+  - first:
+      213: 4988310317852485275
+    second: human_sprites_0_HOODIE_23
+  - first:
+      213: -124127009139082116
+    second: human_sprites_0_HOODIE_24
+  - first:
+      213: -848918342431476054
+    second: human_sprites_0_HOODIE_25
+  - first:
+      213: -543496377065387072
+    second: human_sprites_0_HOODIE_26
+  - first:
+      213: -435932386969600134
+    second: human_sprites_0_HOODIE_27
+  - first:
+      213: 4935832666524862545
+    second: human_sprites_0_HOODIE_28
+  - first:
+      213: -6025988797227555539
+    second: human_sprites_0_HOODIE_29
+  - first:
+      213: -3551666047517066459
+    second: human_sprites_0_HOODIE_30
+  - first:
+      213: -6414300378963328917
+    second: human_sprites_0_HOODIE_31
+  - first:
+      213: -3044683656022053937
+    second: human_sprites_0_HOODIE_32
+  - first:
+      213: -2194629283486025748
+    second: human_sprites_0_HOODIE_33
+  - first:
+      213: 8641804984175023331
+    second: human_sprites_0_HOODIE_34
+  - first:
+      213: 1040652901979440161
+    second: human_sprites_0_HOODIE_35
+  - first:
+      213: -253944983566615477
+    second: human_sprites_0_HOODIE_36
+  - first:
+      213: -7740850792966136694
+    second: human_sprites_0_HOODIE_37
+  - first:
+      213: -7547297143762058569
+    second: human_sprites_0_HOODIE_38
+  - first:
+      213: -6670232992267959071
+    second: human_sprites_0_HOODIE_39
+  - first:
+      213: 724954400127210895
+    second: human_sprites_0_HOODIE_40
+  - first:
+      213: -8688557436319527488
+    second: human_sprites_0_HOODIE_41
+  - first:
+      213: 6043883683614578824
+    second: human_sprites_0_HOODIE_42
+  - first:
+      213: -8302120587984638230
+    second: human_sprites_0_HOODIE_43
+  - first:
+      213: 1790116544252224326
+    second: human_sprites_0_HOODIE_44
+  - first:
+      213: 7923651788190768891
+    second: human_sprites_0_HOODIE_45
+  - first:
+      213: 7824194963113854164
+    second: human_sprites_0_HOODIE_46
+  - first:
+      213: 1979635885776756368
+    second: human_sprites_0_HOODIE_47
+  - first:
+      213: 6070746927276307863
+    second: human_sprites_0_HOODIE_48
+  - first:
+      213: -5776298262155281583
+    second: human_sprites_0_HOODIE_49
+  - first:
+      213: 9178781656221921148
+    second: human_sprites_0_HOODIE_50
+  - first:
+      213: -8161198592914999921
+    second: human_sprites_0_HOODIE_51
+  - first:
+      213: -9130237127732981917
+    second: human_sprites_0_HOODIE_52
+  - first:
+      213: 3194218510258199741
+    second: human_sprites_0_HOODIE_53
+  - first:
+      213: -5345768885735710129
+    second: human_sprites_0_HOODIE_54
+  - first:
+      213: -7962873630719994706
+    second: human_sprites_0_HOODIE_55
+  - first:
+      213: 4652573162368379218
+    second: human_sprites_0_HOODIE_56
+  - first:
+      213: 2334015934778690746
+    second: human_sprites_0_HOODIE_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 325
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3001b6701e5bca0800000000000000
+      internalID: -6001643506424085566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 325
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565ef77826a1f98d0800000000000000
+      internalID: -2837520229737699995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 325
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2141299f900c29fa0800000000000000
+      internalID: -5795358621398068206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 325
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bb790c6be49d970800000000000000
+      internalID: 8780135495357676424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 325
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e020a349a6645a540800000000000000
+      internalID: 5018494783341593102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 325
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a594da87e526130800000000000000
+      internalID: 3558510527972465230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 325
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb70d48deb053a000800000000000000
+      internalID: 45969201806772158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 325
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c7f9bc9ef70d910800000000000000
+      internalID: 1860127288224349200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 326
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b0def50a2644990800000000000000
+      internalID: -7402683446546593013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 326
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124b4f13480fe0cf0800000000000000
+      internalID: -284025275913292767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 326
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6091081f4302b4020800000000000000
+      internalID: 2326989044229085446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 289
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cc11d16da5f4700800000000000000
+      internalID: 526739557082844266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 289
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381a1ea1cfeb5ad90800000000000000
+      internalID: -7087048448605576829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a65eeedafa070da0800000000000000
+      internalID: -5978797907712780631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 289
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81206cbd54a1b2040800000000000000
+      internalID: 4623818329768198680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 289
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c88a71e3bf55250800000000000000
+      internalID: 5932924328233962505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 288
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65754f0165dc89c80800000000000000
+      internalID: -8315670942404290730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 289
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3181066cfb70530800000000000000
+      internalID: 3821233667583775713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 289
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ab19d24e2cbbf40800000000000000
+      internalID: 5745400034914056765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 291
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f8157130fa97a40800000000000000
+      internalID: 5366512858799640475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 291
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9633acc121c44b4d0800000000000000
+      internalID: -3119785001184775319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 291
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a60363d90a4fca00800000000000000
+      internalID: 778922666620028579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 291
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50367cff0ece58d60800000000000000
+      internalID: 7891974373144748805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 289
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96630d0ec90a3540800000000000000
+      internalID: 4988310317852485275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_24
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 296
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cbb319423074ef0800000000000000
+      internalID: -124127009139082116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 290
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6fe0ce3490834f0800000000000000
+      internalID: -848918342431476054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_26
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 288
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb4e44bcec1578f0800000000000000
+      internalID: -543496377065387072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 289
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fb690cdc143f9f0800000000000000
+      internalID: -435932386969600134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_28
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 290
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158cbf6b8a99f7440800000000000000
+      internalID: 4935832666524862545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_29
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 290
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25a4c0bd136f5ca0800000000000000
+      internalID: -6025988797227555539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 256
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bfdec1c82f5bec0800000000000000
+      internalID: -3551666047517066459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 256
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60cc3d2ac3dbf6a0800000000000000
+      internalID: -6414300378963328917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 256
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb2e55a85c1fb5d0800000000000000
+      internalID: -3044683656022053937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 256
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce735285b4c1b81e0800000000000000
+      internalID: -2194629283486025748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_34
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 256
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4d3fbc8dbdde770800000000000000
+      internalID: 8641804984175023331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 256
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124c6fcfc44217e00800000000000000
+      internalID: 1040652901979440161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_36
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 256
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cf406026ec97cf0800000000000000
+      internalID: -253944983566615477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 256
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd3f17739f29490800000000000000
+      internalID: -7740850792966136694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_38
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 256
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b20ebb2c3d924790800000000000000
+      internalID: -7547297143762058569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_39
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 256
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e407c61f629e63a0800000000000000
+      internalID: -6670232992267959071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_40
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 256
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8550f99f2e8f0a00800000000000000
+      internalID: 724954400127210895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 256
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd889dab0b0c6780800000000000000
+      internalID: -8688557436319527488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_42
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 256
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88850a9303030e350800000000000000
+      internalID: 6043883683614578824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_43
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 256
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeee7becf41f8cc80800000000000000
+      internalID: -8302120587984638230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64324b63385c7d810800000000000000
+      internalID: 1790116544252224326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_45
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 256
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfedffee15776fd60800000000000000
+      internalID: 7923651788190768891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_46
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 255
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d44dc55ddf159c60800000000000000
+      internalID: 7824194963113854164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 255
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ed65c7954197b10800000000000000
+      internalID: 1979635885776756368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_48
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 255
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79539998a20af3450800000000000000
+      internalID: 6070746927276307863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_49
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 255
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b378fa55776dfa0800000000000000
+      internalID: -5776298262155281583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_50
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 254
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7faaf9f845916f70800000000000000
+      internalID: 9178781656221921148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_51
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 253
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8532ef9e199dbe80800000000000000
+      internalID: -8161198592914999921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_52
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 253
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f8466d4b1ea4180800000000000000
+      internalID: -9130237127732981917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_53
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 254
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcdae6bfc4245c20800000000000000
+      internalID: 3194218510258199741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_54
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 254
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f422362858300d5b0800000000000000
+      internalID: -5345768885735710129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_55
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 253
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea41c993f903e7190800000000000000
+      internalID: -7962873630719994706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_56
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 252
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259ab7a04a2419040800000000000000
+      internalID: 4652573162368379218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human_sprites_0_HOODIE_57
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 254
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcc5946027146020800000000000000
+      internalID: 2334015934778690746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
